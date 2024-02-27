@@ -1,3 +1,4 @@
+# F2E : blockchain based Federated Learning platform & marketplace
 
 ### `npm start`
 
